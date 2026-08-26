@@ -1,0 +1,4 @@
+Students often need quick information about colleges, such as fees, ratings, placement percentage, salary, hostel fees, entrance exams, safety, and other frequently asked details.
+Manually searching through different sources or datasets for this information can be time-consuming.
+This project aims to develop an AI-based college FAQ chatbot that understands a user's question, identifies the required information using intent classification, and retrieves the relevant college details from a structured dataset.
+The chatbot provides a simple and quick way for students to obtain frequently requested college information through natural-language questions.
